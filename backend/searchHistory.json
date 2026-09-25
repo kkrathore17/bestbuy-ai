@@ -1,0 +1,164 @@
+[
+  {
+    "query": "mobile under 20000",
+    "category": "Smartphones",
+    "results": 4,
+    "time": "2026-09-25T09:13:26.521Z"
+  },
+  {
+    "query": "mobile under 20000",
+    "category": "Smartphones",
+    "results": 4,
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy M35 5G",
+        "category": "Smartphones",
+        "price": 18999
+      },
+      {
+        "id": 2,
+        "name": "OnePlus Nord CE",
+        "category": "Smartphones",
+        "price": 19999
+      },
+      {
+        "id": 3,
+        "name": "Redmi Note Series",
+        "category": "Smartphones",
+        "price": 15999
+      },
+      {
+        "id": 4,
+        "name": "Realme Number Series",
+        "category": "Smartphones",
+        "price": 16999
+      }
+    ],
+    "time": "2026-09-25T09:17:47.654Z"
+  },
+  {
+    "query": "laptop under 60000",
+    "category": "Laptops",
+    "results": 3,
+    "products": [
+      {
+        "id": 5,
+        "name": "ASUS Gaming Laptop",
+        "category": "Laptops",
+        "price": 57999
+      },
+      {
+        "id": 7,
+        "name": "Lenovo IdeaPad Gaming",
+        "category": "Laptops",
+        "price": 54999
+      },
+      {
+        "id": 8,
+        "name": "Acer Aspire Laptop",
+        "category": "Laptops",
+        "price": 47999
+      }
+    ],
+    "time": "2026-09-25T09:18:00.749Z"
+  },
+  {
+    "query": "headphone under 5000",
+    "category": "Smartphones",
+    "results": 2,
+    "products": [
+      {
+        "id": 10,
+        "name": "JBL Wireless Headphones",
+        "category": "Headphones",
+        "price": 4999
+      },
+      {
+        "id": 11,
+        "name": "boAt Bluetooth Headphones",
+        "category": "Headphones",
+        "price": 2499
+      }
+    ],
+    "time": "2026-09-25T09:18:13.114Z"
+  },
+  {
+    "query": "laptop under 60000",
+    "category": "Laptops",
+    "results": 3,
+    "products": [
+      {
+        "id": 5,
+        "name": "ASUS Gaming Laptop",
+        "category": "Laptops",
+        "price": 57999
+      },
+      {
+        "id": 7,
+        "name": "Lenovo IdeaPad Gaming",
+        "category": "Laptops",
+        "price": 54999
+      },
+      {
+        "id": 8,
+        "name": "Acer Aspire Laptop",
+        "category": "Laptops",
+        "price": 47999
+      }
+    ],
+    "time": "2026-09-25T09:20:43.049Z"
+  },
+  {
+    "query": "mobile under 20000",
+    "category": "Smartphones",
+    "results": 4,
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy M35 5G",
+        "category": "Smartphones",
+        "price": 18999
+      },
+      {
+        "id": 2,
+        "name": "OnePlus Nord CE",
+        "category": "Smartphones",
+        "price": 19999
+      },
+      {
+        "id": 3,
+        "name": "Redmi Note Series",
+        "category": "Smartphones",
+        "price": 15999
+      },
+      {
+        "id": 4,
+        "name": "Realme Number Series",
+        "category": "Smartphones",
+        "price": 16999
+      }
+    ],
+    "time": "2026-09-25T09:20:54.397Z"
+  },
+  {
+    "query": "headphone under 5000",
+    "category": "Smartphones",
+    "results": 2,
+    "products": [
+      {
+        "id": 10,
+        "name": "JBL Wireless Headphones",
+        "category": "Headphones",
+        "price": 4999
+      },
+      {
+        "id": 11,
+        "name": "boAt Bluetooth Headphones",
+        "category": "Headphones",
+        "price": 2499
+      }
+    ],
+    "time": "2026-09-25T09:21:13.390Z"
+  }
+]

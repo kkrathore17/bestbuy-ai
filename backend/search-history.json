@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1790331725939,
+    "query": "mobile under 20000",
+    "category": "mobile",
+    "budget": 20000,
+    "resultCount": 2,
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy M35 5G"
+      },
+      {
+        "id": 2,
+        "name": "Redmi Note 14 5G"
+      }
+    ],
+    "createdAt": "2026-09-25T10:22:05.939Z"
+  },
+  {
+    "id": 1790331794249,
+    "query": "mobile under 20000",
+    "category": "mobile",
+    "budget": 20000,
+    "resultCount": 2,
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy M35 5G"
+      },
+      {
+        "id": 2,
+        "name": "Redmi Note 14 5G"
+      }
+    ],
+    "createdAt": "2026-09-25T10:23:14.249Z"
+  },
+  {
+    "id": 1790332697551,
+    "query": "mobile under 20000",
+    "category": "mobile",
+    "budget": 20000,
+    "resultCount": 2,
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy M35 5G"
+      },
+      {
+        "id": 2,
+        "name": "Redmi Note 14 5G"
+      }
+    ],
+    "createdAt": "2026-09-25T10:38:17.551Z"
+  },
+  {
+    "id": 1790332709398,
+    "query": "laptop under 50000",
+    "category": "laptop",
+    "budget": 50000,
+    "resultCount": 1,
+    "products": [
+      {
+        "id": 4,
+        "name": "HP 15s Ryzen 5"
+      }
+    ],
+    "createdAt": "2026-09-25T10:38:29.398Z"
+  },
+  {
+    "id": 1790332735427,
+    "query": "headphone under 80000",
+    "category": "mobile",
+    "budget": 80000,
+    "resultCount": 3,
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy M35 5G"
+      },
+      {
+        "id": 2,
+        "name": "Redmi Note 14 5G"
+      },
+      {
+        "id": 3,
+        "name": "OnePlus Nord CE 4"
+      }
+    ],
+    "createdAt": "2026-09-25T10:38:55.427Z"
+  },
+  {
+    "id": 1790332768776,
+    "query": "headphone under 5000",
+    "category": "mobile",
+    "budget": 5000,
+    "resultCount": 0,
+    "products": [],
+    "createdAt": "2026-09-25T10:39:28.776Z"
+  },
+  {
+    "query": "laptop under 60000",
+    "category": "Laptops",
+    "results": 4,
+    "products": [
+      "ASUS Vivobook 15",
+      "HP Pavilion 14",
+      "Dell Inspiron 15",
+      "Acer Aspire 5"
+    ],
+    "time": "2026-09-25T12:37:32.238Z"
+  },
+  {
+    "query": "laptop under 50000",
+    "category": "Laptops",
+    "results": 1,
+    "products": [
+      "Acer Aspire 5"
+    ],
+    "time": "2026-09-25T12:38:06.494Z"
+  },
+  {
+    "query": "camera under 6000",
+    "category": "Cameras",
+    "results": 0,
+    "products": [],
+    "time": "2026-09-25T12:38:31.774Z"
+  },
+  {
+    "query": "camera under 50000",
+    "category": "Cameras",
+    "results": 2,
+    "products": [
+      "GoPro HERO 13",
+      "DJI Osmo Action"
+    ],
+    "time": "2026-09-25T12:39:00.608Z"
+  },
+  {
+    "query": "camera under 50000",
+    "category": "Cameras",
+    "results": 2,
+    "products": [
+      "GoPro HERO 13",
+      "DJI Osmo Action"
+    ],
+    "time": "2026-09-25T12:41:49.217Z"
+  }
+]
