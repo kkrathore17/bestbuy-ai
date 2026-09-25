@@ -32,7 +32,7 @@ function Admin() {
   const fetchStats = async () => {
     try {
       const response = await fetch(
-        "http://localhost:5000/api/admin/stats"
+        "https://bestbuy-ai.onrender.com"
       );
 
       const data = await response.json();

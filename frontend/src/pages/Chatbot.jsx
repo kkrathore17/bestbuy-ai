@@ -24,15 +24,18 @@ function Chatbot() {
     setLoading(true);
 
     try {
-      const response = await fetch("http://localhost:5000/api/search", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          query: userMessage
-        })
-      });
+      const response = await fetch(
+        "https://bestbuy-ai.onrender.com/api/search",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify({
+            query: userMessage
+          })
+        }
+      );
 
       const data = await response.json();
 

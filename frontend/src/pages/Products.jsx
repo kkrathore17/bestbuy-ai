@@ -9,7 +9,7 @@ function Products() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/products")
+    fetch("https://bestbuy-ai.onrender.com/api/products")
       .then((response) => response.json())
       .then((data) => {
         setProducts(data.products || []);
